@@ -1,5 +1,5 @@
 /**
- * This is the main configuration file for Rush.
+ * This is the main configuration file for Rush.yes
  * For full documentation, please see https://rushjs.io
  */
 {
@@ -372,11 +372,13 @@
   "projects": [
     {
       "packageName": "landing",
-      "projectFolder": "apps/landing"
+      "projectFolder": "apps/landing",
+	  "versionPolicyName": "rush"
     },
     {
       "packageName": "@shared/components",
-      "projectFolder": "libs/components"
+      "projectFolder": "libs/components",
+	  "versionPolicyName": "rush"
     }
     // {
     //   /**
@@ -423,7 +425,7 @@
     //    * in "version-policies.json" file.  See the "rush publish" documentation for more info.
     //    * NOTE: "versionPolicyName" and "shouldPublish" are alternatives; you cannot specify them both.
     //    */
-    //   // "versionPolicyName": ""
+    //   // "versionPolicyName": "individualVersion"
     // },
     //
     // {

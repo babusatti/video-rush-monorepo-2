@@ -1,0 +1,17 @@
+{
+  "name": "landing",
+  "entries": [
+    {
+      "version": "3.0.0",
+      "tag": "landing_v3.0.0",
+      "date": "Tue, 15 Mar 2022 09:52:10 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Dependency @shared/components version bump from ~0.1.0 to ~3.0.0."
+          }
+        ]
+      }
+    }
+  ]
+}

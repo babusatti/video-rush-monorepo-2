@@ -1,7 +1,7 @@
 import React from "react";
 import { Thing } from "@shared/components";
 import "./App.css";
-
+//added for test
 function App() {
   return (
     <div className="App">
