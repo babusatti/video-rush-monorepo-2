@@ -89,8 +89,8 @@
   // }
   {
     "policyName": "rush",
-    "definitionName": "individualVersion",
-	"lockedMajor": 3
+    "definitionName": "individualVersion"
+	//"lockedMajor": 3
     //"version": "1.1.3",
     //"nextBump": "patch",
     //"mainProject": "landing"
