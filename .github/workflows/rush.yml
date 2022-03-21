@@ -17,4 +17,3 @@ jobs:
         uses: advancedcsg-open/actions-rush@v1.4.5
         with:
           build: true
-          run: rush version --bump
