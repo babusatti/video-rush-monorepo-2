@@ -1,0 +1,19 @@
+# .github/workflows/rush.yml
+name: Rush Install
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Rush Install
+        uses: advancedcsg-open/actions-rush
+        with:
+          build: false
