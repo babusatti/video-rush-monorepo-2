@@ -35,4 +35,4 @@ jobs:
       - name: Run Update cmd
         uses: ./
         with:
-         cmd: rush update
+         build: true
