@@ -1,5 +1,5 @@
 # .github/workflows/rush.yml
-name: Rush CI
+name: Rush-CI
 
 on:
   push:
