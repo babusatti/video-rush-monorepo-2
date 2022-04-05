@@ -1,6 +1,11 @@
 # Change Log - landing
 
-This log was last generated on Tue, 05 Apr 2022 14:25:46 GMT and should not be manually modified.
+This log was last generated on Tue, 05 Apr 2022 14:27:47 GMT and should not be manually modified.
+
+## 1.1.10
+Tue, 05 Apr 2022 14:27:47 GMT
+
+_Version update only_
 
 ## 1.1.9
 Tue, 05 Apr 2022 14:25:46 GMT
