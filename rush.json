@@ -118,7 +118,7 @@
    * for your repo.
    */
   //"nodeSupportedVersionRange": ">=12.13.0 <13.0.0",
-  "nodeSupportedVersionRange": "16.14.0",
+  "nodeSupportedVersionRange": "16.13.2",
 
   /**
    * Odd-numbered major versions of Node.js are experimental.  Even-numbered releases
